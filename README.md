@@ -1,7 +1,7 @@
 # Reconhecimento Facil OpenCV
 
 <p align="center">
-    <img href="fotos/img/exemplo.png" alt="Exemplo" height="500px">
+    <img src="img/exemplo.png" alt="Exemplo" height="500px">
 </p>
 Projeto de reconhecimento facil com OpenCV - após treinamento das faces pelo algoritmo será capaz de fazer a detecção por frame
 
